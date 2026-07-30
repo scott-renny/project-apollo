@@ -1,0 +1,46 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.bak
+*~
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+secrets/
+private/
+local/
+*.key
+*.pem
+*.p12
+*.pfx
+*.ovpn
+*.conf.local
+
+# Device exports, backups, and diagnostics
+backups/
+exports/
+diagnostics/
+logs/
+*.ab
+*.backup
+*.log
+
+# Potentially sensitive screenshots
+assets/screenshots/raw/
+assets/screenshots/private/
+
+# Common generated files
+__pycache__/
+node_modules/
+dist/
+build/
+
