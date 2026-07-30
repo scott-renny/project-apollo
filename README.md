@@ -1,6 +1,24 @@
-# Project Apollo
+<h1 align="center">Project Apollo</h1>
 
-**Secure Mobile Command Environment for Samsung Galaxy S25 and Galaxy Tab S11**
+<p align="center">
+<b>Secure Mobile Command Environment for Samsung Galaxy S25 and Galaxy Tab S11</b>
+</p>
+
+<p align="center">
+
+![Status](https://img.shields.io/badge/Status-Planning-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v1.0.0-0078D6?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Devices](https://img.shields.io/badge/Devices-Galaxy%20S25%20%2B%20Tab%20S11-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
+![License](https://img.shields.io/github/license/scott-renny/project-apollo?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/scott-renny/project-apollo?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/scott-renny/project-apollo?style=for-the-badge)
+
+</p>
+
+---
+
+## Overview
 
 Project Apollo standardizes a phone and tablet as secure, coordinated extensions of a home cyber-operations environment. The Galaxy S25 is the alert, authentication, communication, and rapid-response device. The Galaxy Tab S11 is the portable operations console, with NetWatch v2.0 as its primary network-monitoring experience.
 
