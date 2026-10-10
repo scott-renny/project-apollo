@@ -45,6 +45,10 @@ Project Apollo standardizes a phone and tablet as secure, coordinated extensions
 
 See [Device Roles](docs/device-roles.md) for the operating boundaries.
 
+## Architecture
+
+The device roles, secure access model and repository layout are summarized in [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ## Repository map
 
 ```text
