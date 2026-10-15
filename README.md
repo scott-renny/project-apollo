@@ -1,20 +1,16 @@
-<h1 align="center">Project Apollo</h1>
+<div align="center">
 
-<p align="center">
-<b>Secure Mobile Command Environment for Samsung Galaxy S25 and Galaxy Tab A11</b>
-</p>
+# Project Apollo
+### Secure Mobile Command Environment · Android
 
-<p align="center">
+![status: planning](https://img.shields.io/badge/status-planning-d97706?style=flat-square)
+![edition: design reference](https://img.shields.io/badge/edition-design%20reference-22d3ee?style=flat-square)
 
-![Status](https://img.shields.io/badge/Status-Planning-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-v1.0.0-0078D6?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Devices](https://img.shields.io/badge/Devices-Galaxy%20S25%20%2B%20Tab%20A11-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
-![License](https://img.shields.io/github/license/scott-renny/project-apollo?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/scott-renny/project-apollo?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/scott-renny/project-apollo?style=for-the-badge)
+[Architecture](ARCHITECTURE.md) · [License](LICENSE)
 
-</p>
+</div>
+
+[Overview](#overview) · [Project goals](#project-goals) · [Device roles](#device-roles) · [Architecture](#architecture) · [Repository map](#repository-map) · [Quick start](#quick-start)
 
 ---
 
